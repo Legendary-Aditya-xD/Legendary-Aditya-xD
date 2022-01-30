@@ -1,4 +1,4 @@
-<img src "https://photos.app.goo.gl/vA4tu9LrtjRhma147">
+<img src="https://photos.app.goo.gl/vA4tu9LrtjRhma147">
 - 👋 Hi, I’m @Legendary-Aditya-xD
 - 👀 I’m interested in python projects.
 - 🌱 I’m currently learning python language.
