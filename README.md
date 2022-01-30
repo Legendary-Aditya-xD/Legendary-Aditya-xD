@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Legendary-Aditya-xD
 - 👀 I’m interested in python projects.
 - 🌱 I’m currently learning python language.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Company.
 - 📫 You can reach me through [Telegram](https://t.me/toxic_boy_aditya_xd)
 
 <!---
